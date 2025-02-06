@@ -1,0 +1,18 @@
+{
+  "name": "@ankrajg/vanillafeatureflag",
+  "version": "1.7.0",
+  "description": "Its a vanillaJs feature flag package library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Feature",
+    "Flag",
+    "VanillaJs",
+    "Library",
+    "Package"
+  ],
+  "author": "Ankit Gupta",
+  "license": "ISC"
+}

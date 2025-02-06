@@ -1,0 +1,27 @@
+{
+  "name": "featureflagcheck",
+  "version": "1.0.0",
+  "description": "Its a vanillaJs feature flag package library.",
+  "main": "index.js",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Feature",
+    "Flag",
+    "VanillaJs",
+    "Library",
+    "Package."
+  ],
+  "author": "Ankit Gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "@ankrajg/vanillafeatureflag": "^1.7.0"
+  }
+}
